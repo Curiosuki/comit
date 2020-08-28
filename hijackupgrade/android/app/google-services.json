@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869753020567",
+    "firebase_url": "https://hijackupgrade.firebaseio.com",
+    "project_id": "hijackupgrade",
+    "storage_bucket": "hijackupgrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869753020567:android:542d53fb1f98ff220c89d2",
+        "android_client_info": {
+          "package_name": "com.example.hijackupgrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869753020567-buacmjbiib4927cst3611nldoo78i01l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnuyunEUUNVswbLDShY2qeQ6QmFEFPVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869753020567-buacmjbiib4927cst3611nldoo78i01l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501447602118",
+    "firebase_url": "https://andrea-f1d75.firebaseio.com",
+    "project_id": "andrea-f1d75",
+    "storage_bucket": "andrea-f1d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501447602118:android:2a9260278a2a0eaed38cc7",
+        "android_client_info": {
+          "package_name": "com.example.andrea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501447602118-1oic130dria3b2n04a0f9bt3ta62pc34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andrea",
+            "certificate_hash": "09e0e5a69020fcb17427f9b0c6cef2d0d3c18f94"
+          }
+        },
+        {
+          "client_id": "501447602118-i77rg4qj1jcgk80kjaqltqs7d48e1km3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYQji42uGTjOBV02AVu1A02W9n70hLBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501447602118-i77rg4qj1jcgk80kjaqltqs7d48e1km3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

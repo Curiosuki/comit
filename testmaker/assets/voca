@@ -1,0 +1,125 @@
+{ "voca":[
+  {
+    "index": 0,
+    "voca": "enter",
+    "meaning": "v. 들어가다",
+    "synonym": "come to",
+    "antonym": null,
+    "similar": null,
+    "derivative": "enterance n. 입구",
+    "idiom": null,
+    "grammar": "enter(타) 들어가다 / enter into (자) 착수하다"
+  },
+  {
+    "index": 1,
+    "voca": "however",
+    "meaning": "그러나, 얼마나 ~이든지 간에",
+    "synonym": "역접: however, but, still, yet, and yet, nevertheless, nonetheless",
+    "antonym": "순접: so, and so, therefore, thus",
+    "similar": "whatever",
+    "derivative": null,
+    "idiom": null,
+    "grammar": "However 형/부 s + v 얼마나 ~이든지 간에 | whatever (명) s + v 무엇이든지 간에"
+  },
+  {
+    "index": 2,
+    "voca": "volunteer",
+    "meaning": "n. 지원자,자원봉사자 v. 자발적으로~하다",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 3,
+    "voca": "international",
+    "meaning": "a. 국제의, 국제적인",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 4,
+    "voca": "opportunity",
+    "meaning": "n. 기회",
+    "synonym": "chance",
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 5,
+    "voca": "expense",
+    "meaning": "n. 비용, 지출",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 6,
+    "voca": "involve",
+    "meaning": "v. 포함하다, 수반하다",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 7,
+    "voca": "stress",
+    "meaning": "n. 강조 v. 스트레스 압력을주다",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 8,
+    "voca": "average",
+    "meaning": "n. 평균 a. 평균의 v. 평균이~가 되다",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 9,
+    "voca": "ride",
+    "meaning": "v. (탈 것을)타다, 태움",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  },
+  {
+    "index": 10,
+    "voca": "local",
+    "meaning": "a. 지방의, 지역의, 장소의",
+    "synonym": null,
+    "antonym": null,
+    "similar": null,
+    "derivative": null,
+    "idiom": null,
+    "grammar": null
+  }
+
+]
+}

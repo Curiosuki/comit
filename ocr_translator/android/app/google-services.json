@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518348448540",
+    "firebase_url": "https://ocrtranslator-96c0c.firebaseio.com",
+    "project_id": "ocrtranslator-96c0c",
+    "storage_bucket": "ocrtranslator-96c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518348448540:android:c2e5cc956fb07c01eed0d9",
+        "android_client_info": {
+          "package_name": "com.example.ocrtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518348448540-llkvs16h0q74jg4l9itlucgdedgqijqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SdwhIhaKT-1GD22cjAaT4rWPQTuCXOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518348448540-llkvs16h0q74jg4l9itlucgdedgqijqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

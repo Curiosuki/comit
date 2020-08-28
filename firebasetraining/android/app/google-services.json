@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771674197764",
+    "firebase_url": "https://fir-training-fbad6.firebaseio.com",
+    "project_id": "fir-training-fbad6",
+    "storage_bucket": "fir-training-fbad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771674197764:android:514fe531dc2de88503ca51",
+        "android_client_info": {
+          "package_name": "com.example.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771674197764-j1muatl7luup8sm1m89pdseunulh0096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQ5EXbhU8119_vAgULSzSjOkLbdJE7Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771674197764-j1muatl7luup8sm1m89pdseunulh0096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

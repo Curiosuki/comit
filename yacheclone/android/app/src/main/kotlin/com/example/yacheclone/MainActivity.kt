@@ -1,0 +1,6 @@
+package com.example.yacheclone
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

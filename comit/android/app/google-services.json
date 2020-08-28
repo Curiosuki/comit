@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804683044288",
+    "firebase_url": "https://comit-267513.firebaseio.com",
+    "project_id": "comit-267513",
+    "storage_bucket": "comit-267513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804683044288:android:f70874de009b0b6d722425",
+        "android_client_info": {
+          "package_name": "com.example.comit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804683044288-cbht5b04f8138m0i263mbit21q3lfclk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq47v3agp-mBKHdkXd_ZIWpXZ3EDpiqQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804683044288-cbht5b04f8138m0i263mbit21q3lfclk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
